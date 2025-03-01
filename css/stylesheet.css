@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Roboto';
+  url('/assets/Roboto-VariableFont_wdth,wght.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+/* use the font */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+}
